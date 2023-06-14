@@ -7,10 +7,6 @@
 
 ![ExpenseHomePage](image/ExpenseHomePage.png);
 
-<p align="center">
-<img alt="Expense HomePage " src="image/ExpenseHomePage.png">
-</p
-
 
 ### Technology Used
 
