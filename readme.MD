@@ -5,7 +5,7 @@
 
 ## Demo
 
-![ExpenseHomePage](image/ExpenseHomePage.png);
+![ExpenseHomePage](image/ExpenseHomePage.png)
 
 
 ### Technology Used
